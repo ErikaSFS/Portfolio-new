@@ -20,8 +20,13 @@
     --input-color:  hsl(var(--hue-color), 70%, 96%);
     --body-color:  hsl(var(--hue-color), 60%, 99%);
     --container-color: #FFF;
+<<<<<<< HEAD
     --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
     --scroll-thumb-color: hsl(var(--hue-color) 12%, 80%);
+=======
+    --scroll-bar-color: hsl (var(--hue-color), 12%, 90%);
+    --scroll-thumb-color: hsl (var(--hue-color) 12%, 80%);
+>>>>>>> d2446c82c8890764826c6a7298272ab11d609396
 
     /*========== Font and typography ==========*/
     --body-font: 'Poppins', sans-serif;
