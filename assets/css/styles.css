@@ -234,14 +234,14 @@ img{
 .nav__link{
     flex-direction: column;
     align-items: center;
-    row-gap: .25rem;
-    font-size: var(--small-font-size);
+    row-gap: .10rem;
+    font-size: var(--smaller-font-size);
     color: var(--title-color);
-    font-weight: 200;
+    font-weight: 30;
 }
 
 .nav__list{
-    justify-content: space-around;
+    justify-content: space-between;
 
 }
 .nav__link:hover{
@@ -249,7 +249,7 @@ img{
 }
 
 .nav__icon{
-    font-size: .75rem;
+    font-size: .70rem;
 }
 .nav__name{
     font-size: var(--small-font-size);
