@@ -241,7 +241,7 @@ img{
 }
 
 .nav__list{
-    justify-content: space-between;
+    justify-content: space-around;
 
 }
 .nav__link:hover{
